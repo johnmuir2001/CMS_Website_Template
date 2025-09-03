@@ -1,5 +1,6 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: johnmuir2001/CMS_Website_Template
   branch: main
 
 media_folder: "images/uploads"
